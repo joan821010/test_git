@@ -1,2 +1,2 @@
 code
-new_feature
+new_feature2
