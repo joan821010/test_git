@@ -1,6 +1,5 @@
 ok
 hey
-new_feature2
-github
-yoyoyo
-heyhey
+for(var i=0; i<5; i++){
+  console.log(i)
+}
