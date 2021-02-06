@@ -1,2 +1,2 @@
 note
-new_feature2
+I like coding.
